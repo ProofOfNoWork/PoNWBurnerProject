@@ -1,9 +1,9 @@
 # BPoNW
-BurnPoNW is a fork of dbXEN, which is a project that proposes a new tokenomics philosophy and distribution algorithm that aims to contribute to PoNW deflation while bringing a new $BPoNW digital asset in the PoNW ecosystem. $BPoNW is a capped token which can solely be minted through burning $PoNW.
+BurnPoNW is a deflationary crypto asset with a tokenomics philosophy and distribution algorithm that aims to contribute to PoNW's deflation, while bringing a new $BPoNW token to the PoNW ecosystem. $BPoNW is a capped token and can solely be minted through burning $PoNW tokens.
 
 ### Links
 * [DApp](https://burnapp.ponw.win)
-* [Whitepaper](https://proofofnowork.gitbook.io/proof-of-no-work-whitepaper/) 
+* [Whitepaper](https://proofofnowork.gitbook.io/proof-of-no-work-whitepaper/BPoNW/) 
 
 ### Prerequisites
 * npm 6.14+
