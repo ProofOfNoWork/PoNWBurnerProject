@@ -1,9 +1,9 @@
 # dbxen
-DBXen is a project that proposes a new tokenomics philosophy and distribution algorithm that aims to contribute to XEN deflation while bringing a new $DXN digital asset in the XEN ecosystem. $DXN is a capped token which can solely be minted through burning $XEN.
+BurnPoNW is a fork of dbXEN, which is a project that proposes a new tokenomics philosophy and distribution algorithm that aims to contribute to PoNW deflation while bringing a new $BPoNW digital asset in the PoNW ecosystem. $BPoNW is a capped token which can solely be minted through burning $PoNW.
 
 ### Links
-* [DApp](https://app.dbxen.org)
-* [Litepaper](https://dbxen.gitbook.io/dbxen-litepaper/) 
+* [DApp](https://burnapp.ponw.win)
+* [Whitepaper](https://proofofnowork.gitbook.io/proof-of-no-work-whitepaper/) 
 
 ### Prerequisites
 * npm 6.14+
