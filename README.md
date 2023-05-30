@@ -1,9 +1,9 @@
 # BPoNW
-BurnPoNW is a deflationary crypto asset with a tokenomics philosophy and distribution algorithm that aims to contribute to PoNW's deflation, while bringing a new $BPoNW token to the PoNW ecosystem. $BPoNW is a capped token and can solely be minted through burning $PoNW tokens.
+BurnPoNW ($BPoNW) token has a fixed total supply & can only be minted by burning Proof of No Work ($PoNW) tokens. Once minted, $BPoNW can be used to mine $PLS, PulseChain's native gas token. The $PLS is gathered from $BPoNW minters, who are charged a $PLS fee ontop of their $PoNW burn in order to mint $BPoNW. This means there is no need to sell the $BPoNW to fund the mining, putting no inherent sell pressure on $BPoNW token 🚀. 
 
 ### Links
-* [DApp](https://burnapp.ponw.win)
-* [Whitepaper](https://proofofnowork.gitbook.io/proof-of-no-work-whitepaper/BPoNW/) 
+* [DApp](https://burn.ponw.win)
+* [Whitepaper](https://proofofnowork.gitbook.io/burnponw-whitepaper/) 
 
 ### Prerequisites
 * npm 6.14+
